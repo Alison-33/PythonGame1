@@ -1,2 +1,2 @@
-# pythonGame1
+# PythonGame1
 Python game development practice
